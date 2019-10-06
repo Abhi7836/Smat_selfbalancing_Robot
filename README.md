@@ -14,6 +14,7 @@ parts
 6)Camera
 7)Raspberry pi
 8)Battery
+9)Bluetooth module HC-05
 
 here is the link for viedo
 https://drive.google.com/file/d/1Uwx1WJDxcZizvn7rUya6keSDLgshHJNn/view?usp=sharing
