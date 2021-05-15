@@ -1,5 +1,5 @@
 # Smat_selfbalancing_Robot
-
+### [Video](https://drive.google.com/file/d/1rBS2WMhABNowNlbpS1AQyYR0-SPsAtnH/view?usp=sharing)
 This project to make a Smart Self balanicng Robot 
 which can balance on two wheels and detects aruco marker and gives voice output 
 
@@ -15,9 +15,6 @@ parts
 7)Raspberry pi
 8)Battery
 9)Bluetooth module HC-05
-
-here is the link for viedo
-https://drive.google.com/file/d/1rBS2WMhABNowNlbpS1AQyYR0-SPsAtnH/view?usp=sharing
 
 Below is my Robot dimensions that I had built
 ![self balancing Robot blue_print](https://user-images.githubusercontent.com/39412350/66273576-ce912a00-e892-11e9-8e85-b9dd4ebdaa73.jpg)
